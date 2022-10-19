@@ -1,0 +1,340 @@
+@charset "UTF-8";
+
+/*
+|---------------------------------------
+|   Autor: Daniel Olearčin (xolear00)
+|---------------------------------------
+|
+*/
+
+/*********************************
+            variables
+**********************************/
+
+/*
+$main-color: #3498db;
+$text-color: #546E7A;
+*/
+
+/*********************************
+            general
+**********************************/
+
+body {
+  color: #546E7A;
+  font-family: "Open Sans", sans-serif;
+}
+
+main {
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: #1b9c82;
+  padding: 20px 0px;
+}
+
+a {
+  color: #546E7A;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #157965;
+}
+
+i {
+  margin-right: 3px;
+}
+
+th {
+  color: #546E7A;
+}
+
+.table {
+  color: #546E7A;
+}
+
+.table thead tr th {
+  border-bottom: none;
+}
+
+.table-filters .id {
+  width: 80px;
+  margin-right: -50px;
+}
+
+.dropdown-item {
+  color: #546E7A;
+}
+
+.dropdown-menu {
+  border-radius: 0px;
+}
+
+.nav-link {
+  color: #546E7A !important;
+}
+
+.filemanager-container {
+  height: 600px;
+}
+
+.fm-breadcrumb .breadcrumb.active-manager {
+  background-color: #cce3f1;
+}
+
+.pagination-inline,
+.btn-inline {
+  display: inline-block;
+}
+
+.pagination-inline {
+  margin-right: 10px;
+}
+
+.thumbnail {
+  max-width: 200px;
+  margin-bottom: 20px;
+}
+
+.banner {
+  max-height: 200px;
+  margin-bottom: 20px;
+}
+
+#page-link {
+  display: none;
+}
+
+.bg-blue {
+  background-color: #1b9c82;
+}
+
+.error {
+  color: #dc3545;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.alert {
+  border: none;
+  border-radius: 0px;
+}
+
+#index-icon {
+  color: #eceff1a2;
+  font-size: 120px;
+  margin-top: 200px;
+  margin-left: calc(50% - 60px);
+}
+
+.dropzone {
+  border: 2px dashed rgba(0, 0, 0, 0.3);
+  margin-bottom: 40px;
+}
+
+/*********************************
+            buttons
+**********************************/
+
+.btn {
+  border-radius: 0px;
+  padding: 10px 20px;
+  font-size: 18px;
+  transition: none;
+}
+
+.btn-show {
+  margin-top: 30px;
+}
+
+.btn-light {
+  color: #546E7A;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #546E7A;
+  border-color: #546E7A;
+}
+
+.btn-secondary:disabled {
+  color: #fff;
+  background-color: #739aac;
+  border-color: #739aac;
+}
+
+.btn-secondary:hover,
+.btn-secondary.active {
+  color: #fff;
+  background-color: #425761 !important;
+  border-color: #425761;
+}
+
+.btn-white {
+  color: #1b9c82;
+  background-color: #fff;
+}
+
+.btn-blue,
+.btn-blue:hover,
+.btn-blue:active,
+.btn-blue:focus {
+  color: white;
+  background-color: #1b9c82;
+  border: none;
+  box-shadow: none;
+}
+
+.btn-form {
+  border: 1px solid #1b9c82;
+}
+
+/*********************************
+            forms
+**********************************/
+
+.form-group {
+  margin-bottom: 40px;
+}
+
+.form-group label {
+  font-weight: 600;
+  color: #90A4AE;
+}
+
+.form-control {
+  border-radius: 0px;
+  padding: 10px 10px;
+  color: #546E7A;
+  height: auto;
+}
+
+.form-control:focus {
+  border-color: #ccc;
+  box-shadow: none;
+  color: #546E7A;
+}
+
+.form-control::-moz-placeholder {
+  color: #ECEFF1;
+  font-weight: 600;
+}
+
+.form-control:-ms-input-placeholder {
+  color: #ECEFF1;
+  font-weight: 600;
+}
+
+.form-control::placeholder {
+  color: #ECEFF1;
+  font-weight: 600;
+}
+
+.title {
+  color: #90A4AE;
+  font-size: 38px;
+  padding: 5px 10px;
+  font-weight: 600;
+}
+
+.title::-moz-placeholder {
+  color: #ECEFF1;
+  font-weight: 600;
+}
+
+.title:-ms-input-placeholder {
+  color: #ECEFF1;
+  font-weight: 600;
+}
+
+.title::placeholder {
+  color: #ECEFF1;
+  font-weight: 600;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  box-shadow: 0px 0px 0px 1000px #fff inset;
+  -webkit-box-shadow: 0px 0px 0px 1000px #fff inset;
+  -webkit-text-fill-color: #90A4AE !important;
+  -webkit-transition: background-color 5000s ease-in-out 0s;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+/*********************************
+            sidebar
+**********************************/
+
+.sidebar-heading {
+  margin-top: 10px;
+  color: #fff;
+  letter-spacing: 5px;
+  font-weight: 700;
+}
+
+#sidebar-wrapper i {
+  margin-right: 10px;
+}
+
+.list-group-item {
+  padding: 15px 20px;
+  border: none;
+}
+
+.list-group-item,
+.list-group-item:focus {
+  color: white;
+  background-color: #1b9c82;
+}
+
+.list-group-item:hover {
+  color: white;
+  background-color: #157965;
+}
+
+/*********************************
+            pagination
+**********************************/
+
+.page-item:first-child .page-link {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+.page-item:last-child .page-link {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+.page-item .page-link {
+  color: #1b9c82;
+  background-color: #ffffff;
+  border-color: #1b9c82;
+  padding: 13px;
+  border-radius: 0px;
+}
+
+.page-item.disabled .page-link {
+  color: #1b9c82;
+  background-color: #ffffff;
+  border-color: #1b9c82;
+}
+
+.page-item.active .page-link {
+  color: #ffffff;
+  background-color: #1b9c82;
+  border-color: #1b9c82;
+}
+
+.navbar button i {
+  font-size: 20px;
+  padding-top: 3px;
+}
+

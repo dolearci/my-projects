@@ -1,0 +1,38 @@
+
+\documentclass[a4paper, 11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[top=3cm, text={17cm,24cm}, left=2cm]{geometry}
+\usepackage{times}
+\usepackage[czech]{babel}
+\usepackage[breaklinks]{hyperref}
+\usepackage{breakurl}
+
+\begin{document}
+	\begin{titlepage}
+		\begin{center}
+			\huge{VYSOKÉ UČENÍ TECHNICKÉ V BRNĚ}\\
+			\LARGE{FAKULTA INFORMAČNÍCH TECHNOLOGIÍ}\\
+			\vspace{\stretch{0.382}}
+			\Large{Typografie a publikování - 4. projekt}\\
+			\huge{Latex - základné informácie}\\
+			\vspace{\stretch{0.618}}
+		\end{center}
+		\Large{\today \hfill Daniel Olearčin}
+	\end{titlepage}
+\setcounter{page}{1}
+\section{Latex}
+Jak uvádí článek \cite{Davidek},
+za LaTeX (čti „lejtech“ nebo „latech“, zkratka od Lamport TeX ‒ Leslie Lamport je autor) lze v širší rovině považovat typografický systém, který je primárně určen k sazbě vědeckých a matematických dokumentů vysoké typografické kvality. Tento systém je každopádně vhodný i pro tvorbu rozličných dokumentů jako jsou například jednoduché vizitky nebo několikasetstránkové knihy.
+\section{Historie latexu}
+V historii byl nejdříve vytvořen systém TeX (tvůrce je pan Donald E. Knuth) - tento systém dovoluje vytvářet v maximální míře různé detaily - je to soubor "malých krabiček" - malých funkcí. Dá se s ním pracovat, ale ne dostatečně pohodlně. Pro vyřešení tohoto problému byl vytvořen LaTeX, který nabízí uživateli podstatně "větší krabičky". viz \cite{Frcatel}
+\section{Informace o latexu}
+Začátečníkovi v \TeX u lze vřele doporučit např. publikaci LATEX pro začátečníky viz \cite{Rybicka} nebo Jemný úvod do \TeX u \cite{Doob}. Pro již zkušenější uživatele bude zajisté velmi užitečný manuál \TeX book \cite{Knuth}
+\section{Texmaker}
+Tato práce byla napsána v TeXmakeru. TeXmaker je pro uživatele jeden z nejpřívìtivìjších editorú vúbec, alespoň z mého pohledu, neboť mì se v nìm pracovalo nejlépe. Viac viz \cite{Bartlik} alebo \cite{texmaker}
+\section{Manuály}
+Existuje mnoho manuálů které nám pomáhají zacházet s latexem. Většinou jsou v angličtině viz \cite{manen1} alebo \cite{manen2} ale najdeme i v češtině viz \cite{mancz}
+
+\newpage
+\bibliographystyle{czechiso}
+\bibliography{proj4}
+\end{document}

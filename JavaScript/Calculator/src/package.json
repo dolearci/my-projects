@@ -1,0 +1,39 @@
+{
+  "name": "electron-calc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "mocha",
+    "docs": "./node_modules/.bin/jsdoc -c jsdoc.json",
+    "profile": "node profiler.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesty156/IVS.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "xkroni01",
+  "contributors": [
+    "xhluch01",
+    "xolear00"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nesty156/IVS/issues"
+  },
+  "homepage": "https://github.com/nesty156/IVS#readme",
+  "devDependencies": {
+    "electron": "^8.1.1",
+    "jsdoc": "^3.6.4",
+    "mocha": "^7.1.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "chai": "^4.2.0",
+    "katex": "^0.11.1"
+  }
+}
