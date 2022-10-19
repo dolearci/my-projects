@@ -1,0 +1,651 @@
+Start testing: Mar 03 22:28 STD
+----------------------------------------------------------
+1/24 Testing: Empty.insertN
+1/24 Test: Empty.insertN
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Empty.insertN"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Empty.insertN" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Empty.insertN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Empty
+[ RUN      ] Empty.insertN
+[       OK ] Empty.insertN (0 ms)
+[----------] 1 test from Empty (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Empty.insertN" end time: Mar 03 22:28 STD
+"Empty.insertN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/24 Testing: Empty.deleteN
+2/24 Test: Empty.deleteN
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Empty.deleteN"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Empty.deleteN" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Empty.deleteN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Empty
+[ RUN      ] Empty.deleteN
+[       OK ] Empty.deleteN (0 ms)
+[----------] 1 test from Empty (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Empty.deleteN" end time: Mar 03 22:28 STD
+"Empty.deleteN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/24 Testing: Empty.findN
+3/24 Test: Empty.findN
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Empty.findN"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Empty.findN" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Empty.findN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Empty
+[ RUN      ] Empty.findN
+[       OK ] Empty.findN (0 ms)
+[----------] 1 test from Empty (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Empty.findN" end time: Mar 03 22:28 STD
+"Empty.findN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/24 Testing: Nempty.insertN
+4/24 Test: Nempty.insertN
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Nempty.insertN"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Nempty.insertN" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Nempty.insertN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Nempty
+[ RUN      ] Nempty.insertN
+[       OK ] Nempty.insertN (0 ms)
+[----------] 1 test from Nempty (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Nempty.insertN" end time: Mar 03 22:28 STD
+"Nempty.insertN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/24 Testing: Nempty.deleteN
+5/24 Test: Nempty.deleteN
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Nempty.deleteN"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Nempty.deleteN" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Nempty.deleteN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Nempty
+[ RUN      ] Nempty.deleteN
+[       OK ] Nempty.deleteN (0 ms)
+[----------] 1 test from Nempty (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Nempty.deleteN" end time: Mar 03 22:28 STD
+"Nempty.deleteN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/24 Testing: Nempty.findN
+6/24 Test: Nempty.findN
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Nempty.findN"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Nempty.findN" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Nempty.findN
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Nempty
+[ RUN      ] Nempty.findN
+[       OK ] Nempty.findN (0 ms)
+[----------] 1 test from Nempty (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Nempty.findN" end time: Mar 03 22:28 STD
+"Nempty.findN" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/24 Testing: Axioms.axiom1
+7/24 Test: Axioms.axiom1
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Axioms.axiom1"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Axioms.axiom1" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Axioms.axiom1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Axioms
+[ RUN      ] Axioms.axiom1
+[       OK ] Axioms.axiom1 (0 ms)
+[----------] 1 test from Axioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Axioms.axiom1" end time: Mar 03 22:28 STD
+"Axioms.axiom1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/24 Testing: Axioms.axiom2
+8/24 Test: Axioms.axiom2
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Axioms.axiom2"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Axioms.axiom2" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Axioms.axiom2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Axioms
+[ RUN      ] Axioms.axiom2
+[       OK ] Axioms.axiom2 (0 ms)
+[----------] 1 test from Axioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Axioms.axiom2" end time: Mar 03 22:28 STD
+"Axioms.axiom2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/24 Testing: Axioms.axiom3
+9/24 Test: Axioms.axiom3
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/black_box_test" "--gtest_filter=Axioms.axiom3"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"Axioms.axiom3" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = Axioms.axiom3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Axioms
+[ RUN      ] Axioms.axiom3
+[       OK ] Axioms.axiom3 (0 ms)
+[----------] 1 test from Axioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Axioms.axiom3" end time: Mar 03 22:28 STD
+"Axioms.axiom3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/24 Testing: TMatrix.Constructor
+10/24 Test: TMatrix.Constructor
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.Constructor"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.Constructor" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.Constructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.Constructor
+[       OK ] TMatrix.Constructor (0 ms)
+[----------] 1 test from TMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.Constructor" end time: Mar 03 22:28 STD
+"TMatrix.Constructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/24 Testing: TMatrix.Destruktor
+11/24 Test: TMatrix.Destruktor
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.Destruktor"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.Destruktor" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.Destruktor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.Destruktor
+[       OK ] TMatrix.Destruktor (0 ms)
+[----------] 1 test from TMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.Destruktor" end time: Mar 03 22:28 STD
+"TMatrix.Destruktor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/24 Testing: TMatrix.set
+12/24 Test: TMatrix.set
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.set"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.set" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.set
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.set
+[       OK ] TMatrix.set (0 ms)
+[----------] 1 test from TMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.set" end time: Mar 03 22:28 STD
+"TMatrix.set" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/24 Testing: TMatrix.get
+13/24 Test: TMatrix.get
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.get"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.get" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.get
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.get
+[       OK ] TMatrix.get (0 ms)
+[----------] 1 test from TMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.get" end time: Mar 03 22:28 STD
+"TMatrix.get" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/24 Testing: TMatrix.equal
+14/24 Test: TMatrix.equal
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.equal"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.equal" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.equal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.equal
+[       OK ] TMatrix.equal (0 ms)
+[----------] 1 test from TMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.equal" end time: Mar 03 22:28 STD
+"TMatrix.equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/24 Testing: TMatrix.plus
+15/24 Test: TMatrix.plus
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.plus"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.plus" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.plus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.plus
+[       OK ] TMatrix.plus (0 ms)
+[----------] 1 test from TMatrix (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.plus" end time: Mar 03 22:28 STD
+"TMatrix.plus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/24 Testing: TMatrix.multiply
+16/24 Test: TMatrix.multiply
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.multiply"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.multiply" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.multiply
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.multiply
+[       OK ] TMatrix.multiply (0 ms)
+[----------] 1 test from TMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.multiply" end time: Mar 03 22:28 STD
+"TMatrix.multiply" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/24 Testing: TMatrix.solve
+17/24 Test: TMatrix.solve
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/white_box_test" "--gtest_filter=TMatrix.solve"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"TMatrix.solve" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TMatrix.solve
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TMatrix
+[ RUN      ] TMatrix.solve
+[       OK ] TMatrix.solve (0 ms)
+[----------] 1 test from TMatrix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TMatrix.solve" end time: Mar 03 22:28 STD
+"TMatrix.solve" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/24 Testing: NonEmptyQueue.Insert
+18/24 Test: NonEmptyQueue.Insert
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Insert"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"NonEmptyQueue.Insert" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Insert
+[       OK ] NonEmptyQueue.Insert (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Insert" end time: Mar 03 22:28 STD
+"NonEmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/24 Testing: NonEmptyQueue.RemoveAllForward
+19/24 Test: NonEmptyQueue.RemoveAllForward
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllForward"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"NonEmptyQueue.RemoveAllForward" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllForward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllForward
+[       OK ] NonEmptyQueue.RemoveAllForward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllForward" end time: Mar 03 22:28 STD
+"NonEmptyQueue.RemoveAllForward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/24 Testing: NonEmptyQueue.RemoveAllBackward
+20/24 Test: NonEmptyQueue.RemoveAllBackward
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllBackward"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"NonEmptyQueue.RemoveAllBackward" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllBackward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllBackward
+[       OK ] NonEmptyQueue.RemoveAllBackward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllBackward" end time: Mar 03 22:28 STD
+"NonEmptyQueue.RemoveAllBackward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/24 Testing: NonEmptyQueue.Find
+21/24 Test: NonEmptyQueue.Find
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Find"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"NonEmptyQueue.Find" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Find
+[       OK ] NonEmptyQueue.Find (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Find" end time: Mar 03 22:28 STD
+"NonEmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/24 Testing: EmptyQueue.Insert
+22/24 Test: EmptyQueue.Insert
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Insert"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"EmptyQueue.Insert" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Insert
+[       OK ] EmptyQueue.Insert (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Insert" end time: Mar 03 22:28 STD
+"EmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/24 Testing: EmptyQueue.Remove
+23/24 Test: EmptyQueue.Remove
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Remove"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"EmptyQueue.Remove" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Remove
+[       OK ] EmptyQueue.Remove (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Remove" end time: Mar 03 22:28 STD
+"EmptyQueue.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/24 Testing: EmptyQueue.Find
+24/24 Test: EmptyQueue.Find
+Command: "/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Find"
+Directory: /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build
+"EmptyQueue.Find" start time: Mar 03 22:28 STD
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Find
+[       OK ] EmptyQueue.Find (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Find" end time: Mar 03 22:28 STD
+"EmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 03 22:28 STD

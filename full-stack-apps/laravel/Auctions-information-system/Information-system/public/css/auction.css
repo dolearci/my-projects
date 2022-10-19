@@ -1,0 +1,47 @@
+#ceneter-auctions {
+  margin-left: 5%;
+  margin-right: 5%;
+  overflow: hidden;
+  width: 90%;
+}
+
+#inner-wrapper {
+  overflow: hidden;
+  width: 100%;
+}
+
+#inner-wrapper a {
+  color: black;
+}
+
+.auction-thumbnail {
+  position: relative;
+  float: left;
+  background-color: gainsboro;
+  width: 200px;
+  height: 300px;
+  margin: 5px;
+}
+
+.auction-thumbnail-img {
+  background-color: gold;
+  width: 180px;
+  height: 180px;
+  margin: auto;
+}
+
+.center-2row {
+  text-align: center;
+  line-height: 1.5em;
+  height: 3em;
+  /* height is 2x line-height, so two lines will display */
+  overflow: hidden;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin: 5px;
+}
+

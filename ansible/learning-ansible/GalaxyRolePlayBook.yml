@@ -1,0 +1,6 @@
+---
+- hosts: openstack
+  become: yes
+
+  roles: 
+    - aboveops.remove_file

@@ -1,3 +1,4 @@
-### My projects
+### My school projects, work projects, fullstack applications and learning
   - Author: Daniel Olearčin
-  - Each folder name represents language or framework
+  - LinkedIn: https://www.linkedin.com/in/daniel-olear%C4%8Din/
+  - Email: daniel.olearcin@gmail.com

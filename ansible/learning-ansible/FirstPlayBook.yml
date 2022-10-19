@@ -1,0 +1,7 @@
+---
+  - name: "Trying Ansible"
+    hosts: localhost
+
+    tasks:
+      - name: "ping server"
+        ping:
