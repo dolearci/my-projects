@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  mysql_db:
+    image: "mysql"
+    restart: always
+    environment:
+      MYSQL_DATABASE: woodwork
+      MYSQL_USER: woodworkuser
+      MYSQL_PASSWORD: woodworkpass
+      MYSQL_ROOT_PASSWORD: woodworkpassword
+  api_service:
+    build: ./sbdocker
+    restart: always
+    ports:
+      - 8080:8080
+    environment:
+      SPRING_DATASOURCE_PASSWORD: woodworkpass
+      SPRING_DATASOURCE_USER: woodworkuser
+      SPRING_DATASOURCE_NAME: woodwork
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_db:3306/woodwork
+    depends_on:
+      - mysql_db
+  nextjs:
+    build: ./nextdocker
+    restart: always
+    ports:
+      - 3000:3000
+    depends_on:
+      - api_service
+
