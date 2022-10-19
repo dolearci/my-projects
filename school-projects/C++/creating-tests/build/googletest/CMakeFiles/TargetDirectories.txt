@@ -1,0 +1,3 @@
+/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest/CMakeFiles/rebuild_cache.dir
+/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest/CMakeFiles/googletest.dir
+/mnt/c/C/2.semester/ivs_project_1_2020/assignment/build/googletest/CMakeFiles/edit_cache.dir

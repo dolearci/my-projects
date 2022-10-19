@@ -1,0 +1,6 @@
+Sprava10 = vysledok z hodnotenia pri zadani 10 roznych cisel
+Sprava100 = vysledok z hodnotenia pri zadani 100 roznych cisel
+Sprava1000 = vysledok z hodnotenia pri zadani 1000 roznych cisel
+
+Nedokazal najst vhodnejsi profiler (vsetky profilery ktore som nasiel boli zamerane na meranie rychlosti web stranok kedze projekt sme robili v javascripte).
+Profilling som urobil ale nedokazem z neho vyvodit co by trebalo zrychlit.

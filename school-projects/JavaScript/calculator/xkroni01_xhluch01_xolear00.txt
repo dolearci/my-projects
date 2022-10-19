@@ -1,0 +1,36 @@
+Plán projektu do předmětu IVS:
+- Všechny úkoly jsou založeny jako issues na GitHubu https://github.com/nesty156/ivs
+
+Termíny:
+#1 Základní struktura - 17. 3.
+#2 Testy knihovna 19. 3.
+#4 Mockupy 19. 3.
+#3 Implementace knihovny 26. 3.
+#5 Vytvoření GUI 26. 3.
+#6 Instalátor a odinstalátor 2. 4.
+#8 Propojení GUI a knihovny 2. 4.
+#9 Profiling knihovny 9. 4.
+#10 Uživatelská dokumentace 16. 4.
+#7 Vygenerování programové dokumentace 16. 4.
+
+Přidělení úkolů
+- na GitHubu je vždy v úkolu přiřazen řešitel
+
+#1 Základní struktura projektu        xkroni01
+#2 Testy pro knihovnu                 xkroni01
+#3 Implementace matematické knihovny  xolear00
+#4 Vytvoření mockup                   xkroni01
+#5 Vytvoření GUI                      xkroni01
+#6 Instalátor a odinstalátor          xhluch01
+#7 Vygenerování dokumentace           xhluch01
+#8 Propojení GUI a knihovna           xhluch01
+#9 Profiling matematické knihovny     xolear00
+#10 Uživatelská dokumentace           xolear00
+
+Komunikační kanál
+ - Skupinový chat na messengeru.
+
+Systém pro správu verzí
+ - Git, konkrétně služba GitHub
+ - GitHub budeme využívat pro správu verzé kódu, ale také pro přidělování úkolů
+ a komunikaci kolem úkolů.

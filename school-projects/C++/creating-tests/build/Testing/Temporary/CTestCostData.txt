@@ -1,0 +1,25 @@
+NonEmptyQueue.Insert 2 0.014425
+NonEmptyQueue.RemoveAllForward 2 0.0142715
+NonEmptyQueue.RemoveAllBackward 2 0.0161661
+NonEmptyQueue.Find 2 0.0144315
+EmptyQueue.Insert 2 0.013808
+EmptyQueue.Remove 3 0.00978835
+EmptyQueue.Find 3 0.00994333
+Empty.insertN 2 0.013546
+Empty.deleteN 2 0.0130579
+Empty.findN 2 0.0131581
+Nempty.insertN 2 0.013008
+Nempty.deleteN 2 0.013383
+Nempty.findN 2 0.014046
+TMatrix.Constructor 2 0.014493
+TMatrix.Destruktor 2 0.0154561
+TMatrix.set 2 0.0140026
+TMatrix.get 2 0.0149471
+TMatrix.equal 2 0.0144094
+TMatrix.plus 2 0.015029
+TMatrix.multiply 2 0.017603
+TMatrix.solve 2 0.0145705
+Axioms.axiom1 1 0.025346
+Axioms.axiom2 1 0.025285
+Axioms.axiom3 1 0.02545
+---

@@ -1,0 +1,111 @@
+
+/*
+|---------------------------------------
+|   Autor: Daniel Havranek (xhavra18)
+|---------------------------------------
+|
+*/
+
+$main-color: #546E7A;
+$text-color: #546E7A;
+
+html,
+body {
+    height: 100%;
+    color: $text-color;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-align: center;
+    -ms-flex-pack: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+}
+
+.btn-link,
+.btn-link:hover {
+    color: $text-color;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin .checkbox {
+    font-weight: 400;
+}
+
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+#logo {
+    margin-bottom: 40px;
+}
+
+.btn {
+    border-radius: 0px;
+    padding: 10px 20px;
+    font-size: 18px;
+    transition: none;
+}
+
+.btn-blue,
+.btn-blue:hover,
+.btn-blue:active,
+.btn-blue:focus {
+    color: white;
+    background-color: $main-color;
+    border: none;
+    box-shadow: none;
+}
+
+.btn-white {
+    color: $main-color;
+    background-color: #fff;
+}
+
+.form-control {
+    border-radius: 0px;
+    padding: 10px 10px;
+    color: $text-color;
+    height: auto;
+}
+
+
+.badge-custom {
+    background-color: #1ABC9C;
+    color: white;
+}
